@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\karlsloog\LendMoney\bin\Debug\net6.0\LendMoney.exe
+C:\Users\user\source\repos\karlsloog\LendMoney\bin\Debug\net6.0\LendMoney.deps.json
+C:\Users\user\source\repos\karlsloog\LendMoney\bin\Debug\net6.0\LendMoney.runtimeconfig.json
+C:\Users\user\source\repos\karlsloog\LendMoney\bin\Debug\net6.0\LendMoney.dll
+C:\Users\user\source\repos\karlsloog\LendMoney\bin\Debug\net6.0\LendMoney.pdb
+C:\Users\user\source\repos\karlsloog\LendMoney\obj\Debug\net6.0\LendMoney.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\karlsloog\LendMoney\obj\Debug\net6.0\LendMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\karlsloog\LendMoney\obj\Debug\net6.0\LendMoney.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\karlsloog\LendMoney\obj\Debug\net6.0\LendMoney.AssemblyInfo.cs
+C:\Users\user\source\repos\karlsloog\LendMoney\obj\Debug\net6.0\LendMoney.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\karlsloog\LendMoney\obj\Debug\net6.0\LendMoney.dll
+C:\Users\user\source\repos\karlsloog\LendMoney\obj\Debug\net6.0\refint\LendMoney.dll
+C:\Users\user\source\repos\karlsloog\LendMoney\obj\Debug\net6.0\LendMoney.pdb
+C:\Users\user\source\repos\karlsloog\LendMoney\obj\Debug\net6.0\LendMoney.genruntimeconfig.cache
+C:\Users\user\source\repos\karlsloog\LendMoney\obj\Debug\net6.0\ref\LendMoney.dll
